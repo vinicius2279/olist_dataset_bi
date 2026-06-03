@@ -8,6 +8,7 @@ Análise exploratória desenvolvida utilizando dados públicos da Olist disponí
 - Avaliar o setor logístico da empresa
 - Identificar padrões de faturamento
 - Criar dashboards interativos no Power BI, utilizando variados tipos de gráficos e mapa com divisão de vendas por região
+- Obter insights em relação aos setores de vendas, logística e financeiro
 - Desenvolver um modelo de regressão linear em Python para previsão de vendas futuras
 
 ## Dashboard Comercial com Previsão e Mapa
@@ -34,6 +35,14 @@ Análise exploratória desenvolvida utilizando dados públicos da Olist disponí
 - Pandas
 - Scikit-learn
 
+## Principais Insights
+
+- Muitos produtos com grande volumes de vendas agregam pouco ao ticket médio da empresa.
+- Muitos estados com pouco volume de vendas possuem ticket médio maior que estados com grande volume de vendas.
+- O volume de produtos parcelados superou as vendas à vista no período analisado.
+- O frete apresentou variação significativa entre regiões.
+- Das cidades com maior ticket médio, as localizadas no Norte e Nordeste têm custo logístico maior.
+- A regressão linear indicou tendência de crescimento das vendas nos meses seguintes ao período analisado.
 
 ## Como acessar
 
@@ -44,4 +53,8 @@ Como o tamanho do arquivo Power BI está acima dos tamanho permitido pelo GitHub
 .pbix: https://1drv.ms/u/c/67c291d865ede66a/IQAWU5_GSd1zTqGw2dpeOiPAAfsbE0Jkuc_tR4rFM7WxMH4?e=FkdDX9
 
 Dados crus, disponíveis no Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## Autor
+
+Vinícius Cabral
 
