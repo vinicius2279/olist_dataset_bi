@@ -10,6 +10,22 @@ Análise exploratória desenvolvida utilizando dados públicos da Olist disponí
 - Criar dashboards interativos no Power BI, utilizando variados tipos de gráficos e mapa com divisão de vendas por região
 - Desenvolver um modelo de regressão linear em Python para previsão de vendas futuras
 
+## Dashboard Comercial com Previsão e Mapa
+
+![Dashboard de Previsão](images/dashboard4.png)
+
+## Dashboard Logístico
+
+![Dashboard Logístico](images/dashboard2.png)
+
+## Dashboard Financeiro
+
+![Dashboard Financeiro](images/dashboard3.png)
+
+## Dashboard Comercial
+
+![Dashboard Comercial](images/dashboard1.png)
+
 ## Tecnologias Utilizadas
 
 - Power BI
