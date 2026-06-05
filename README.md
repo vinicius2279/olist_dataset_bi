@@ -1,6 +1,6 @@
 # Análise de Vendas, Custo Logístico e Previsão de Demanda - Olist
 
-Análise exploratória desenvolvida utilizando dados públicos da Olist disponíveis no site Kaggle, com foco em Business Intelligence e análise de dados, implementando conceitos de ETL via Power Query e Pandas e realizando uma previsão de vendas utilizando regressão linear feita em Python com a biblioteca scikit-learn.
+Análise exploratória desenvolvida utilizando dados públicos da Olist disponíveis no site Kaggle, com foco em Business Intelligence e análise de dados, com a geração de 4 dashboards feitos utilizando relacionamentos em modelo estrela, com a implementação de conceitos de ETL via Power Query e Pandas e realização de uma previsão de vendas utilizando regressão linear feita em Python com a biblioteca scikit-learn.
 
 ## Objetivos
 
